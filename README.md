@@ -4,7 +4,7 @@
 Este projeto foi desenvolvido inteiramente com o auxílio de Inteligência Artificial (IA). A criação e a organização do conteúdo, bem como a escrita dos exemplos e exercícios, foram gerenciadas por um modelo de IA, proporcionando uma experiência abrangente e informativa sobre Programação Orientada a Objetos (POO) com Python.
 
 ## 🤖 Tecnologias Utilizadas
-Foram utilizadas as IAs CHATGPT para modelar o texto e COPILOT para modelar a imagem.
+Foram utilizadas as IAs GEMINI para modelar o texto e COPILOT para modelar a imagem.
 
 ## 🧐 Processo de Criação
 Procurei utilizar o que aprendi nas aulas do Bootcamp DIO VIVO Python Backend Developer e
